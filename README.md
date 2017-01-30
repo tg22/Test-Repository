@@ -1,7 +1,5 @@
 # Test-Repository
-Hello grutor, cash me outside
-
-Howbow dah?
+Hello grutor/ Professor, Whats up??
 
 123456789012345678901234567890
 
